@@ -1,0 +1,30 @@
+.Header {
+  color: white;
+
+  width: 60%;
+  background-color: #5f6975;
+  margin-left: -10px;
+  margin: 0 auto;
+  padding: 1px;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.7);
+  border-radius: 2rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 11px;
+}
+.HeaderTextStyle {
+  margin-top: -10px;
+  font-size: 7px;
+  padding: 2px;
+}
+.HeaderAroundTextStyle {
+  margin-top: -15px;
+  margin-left: -65px;
+  margin-right: -65px;
+  margin-bottom: -10px;
+  margin-top: -40px;
+}
+
+.watson-logo {
+  height: 16px;
+}
